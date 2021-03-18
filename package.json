@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:heyloh/typescript-course.git",
   "author": "Lohana Torres <lt.leopoldo@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
 }
