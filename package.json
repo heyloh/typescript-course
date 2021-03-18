@@ -1,0 +1,8 @@
+{
+  "name": "typescript-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:heyloh/typescript-course.git",
+  "author": "Lohana Torres <lt.leopoldo@gmail.com>",
+  "license": "MIT"
+}
